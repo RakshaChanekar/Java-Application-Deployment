@@ -131,8 +131,9 @@ http://<Proxy-Public-IP>/student
   <img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/f5525123-cfd7-4a3b-9334-6eb836c77f49" />
 * ✅ Application UI via Proxy
   <img width="673" height="463" alt="image" src="https://github.com/user-attachments/assets/43a6609d-fcf3-4bb1-aefe-578d5087076f" />
-
+  <img width="940" height="334" alt="image" src="https://github.com/user-attachments/assets/0e70145b-d085-4bb2-b011-483fcadf5dad" />
 * ✅ Database Records in RDS
+  <img width="940" height="1013" alt="image" src="https://github.com/user-attachments/assets/8612d3de-3719-47ea-b7b6-57309a28538d" />
 * ✅ Security Group Configuration
 
 *(Add images inside `/screenshots` folder)*
