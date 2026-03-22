@@ -16,7 +16,7 @@ Using **Nginx as a reverse proxy** and **Apache Tomcat as the backend applicatio
 
 ## 🏗 Architecture
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4e919f8e-647d-47c8-be73-cb12290e2eee" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5678900-b863-42ae-9ff5-8c1c3193f8b2" />
 
 
 ### 🔁 Traffic Flow
