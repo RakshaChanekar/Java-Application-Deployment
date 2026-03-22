@@ -186,6 +186,44 @@ http://<Proxy-Public-IP>/student
 
 ## 📦 Project Structure
 
+1. Infrastructure Setup
+   ↓
+   - Create 2 EC2 instances (Proxy + Backend)
+   - Create RDS MySQL database
+   - Configure Security Groups:
+       Proxy → Public (Port 80)
+       Backend → Only Proxy (Port 8080)
+       RDS → Only Backend (Port 3306)
+
+2. Database Setup
+   ↓
+   - Connect Backend → RDS
+   - Create database: studentdb
+   - Create table: students
+
+3. Backend Deployment
+   ↓
+   - Install Java & Tomcat
+   - Deploy student.war
+   - Configure DB connection
+   - Application runs on Port 8080 (internal)
+
+4. Reverse Proxy Setup
+   ↓
+   - Install Nginx on Proxy EC2
+   - Configure proxy to forward requests:
+       /student → Backend:8080
+
+5. User Request Flow
+   ↓
+   User → Proxy (Nginx) → Backend (Tomcat) → RDS
+         ← Response ←
+
+6. Security Validation
+   ↓
+   - Direct Backend Access → Blocked ❌
+   - Access via Proxy → Allowed ✅
+   - Data stored successfully in RDS ✅
 
 ---
 
