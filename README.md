@@ -129,14 +129,26 @@ http://<Proxy-Public-IP>/student
 
 * ✅ Running EC2 Instances
   <img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/f5525123-cfd7-4a3b-9334-6eb836c77f49" />
+  
 * ✅ Application UI via Proxy
+  
   <img width="673" height="463" alt="image" src="https://github.com/user-attachments/assets/43a6609d-fcf3-4bb1-aefe-578d5087076f" />
   <img width="940" height="334" alt="image" src="https://github.com/user-attachments/assets/0e70145b-d085-4bb2-b011-483fcadf5dad" />
+  
 * ✅ Database Records in RDS
+  
   <img width="940" height="1013" alt="image" src="https://github.com/user-attachments/assets/8612d3de-3719-47ea-b7b6-57309a28538d" />
-* ✅ Security Group Configuration
+  
+## 🔒 Security Group Configuration
 
-*(Add images inside `/screenshots` folder)*
+### Proxy Security Group
+<img width="1913" height="895" alt="image" src="https://github.com/user-attachments/assets/f9f98d2b-e5a2-41c2-a458-5ffe1129683b" />
+
+### Backend Security Group
+<img width="1911" height="890" alt="image" src="https://github.com/user-attachments/assets/de59e5b5-c7c4-47b4-a09e-b61d476617a7" />
+
+### RDS Security Group
+<img width="1916" height="849" alt="image" src="https://github.com/user-attachments/assets/c0e18395-0703-4a10-a134-bae6fc9b7006" />
 
 ---
 
