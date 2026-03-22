@@ -128,7 +128,10 @@ http://<Proxy-Public-IP>/student
 ## 📸 Screenshots
 
 * ✅ Running EC2 Instances
+  <img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/f5525123-cfd7-4a3b-9334-6eb836c77f49" />
 * ✅ Application UI via Proxy
+  <img width="673" height="463" alt="image" src="https://github.com/user-attachments/assets/43a6609d-fcf3-4bb1-aefe-578d5087076f" />
+
 * ✅ Database Records in RDS
 * ✅ Security Group Configuration
 
