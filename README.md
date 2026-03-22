@@ -239,8 +239,8 @@ http://<Proxy-Public-IP>/student
 ## 👨‍💻 Author
 
 **Raksha Chanekar**
-Cloud Engineer
-AWS | DevOps | Kubernetes
+<p> Cloud Engineer
+AWS | DevOps | Kubernetes</p>
 
 ---
 
