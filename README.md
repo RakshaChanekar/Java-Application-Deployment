@@ -186,15 +186,6 @@ http://<Proxy-Public-IP>/student
 
 ## 📦 Project Structure
 
-```
-project-root/
-│
-├── screenshots/
-├── logs/
-│   └── catalina.out
-├── student.war
-└── README.md
-```
 
 ---
 
